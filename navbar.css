@@ -42,7 +42,7 @@ nav ul{
 
 .nav-items li{
     list-style: none;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 .nav-items li a{
     color: #E5E5E5;
@@ -60,7 +60,7 @@ nav ul{
 .nav-items li a{
     color: #E5E5E5;
     font-family: "Roboto", sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     text-decoration: none;
 }
 
