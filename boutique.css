@@ -5,7 +5,6 @@ body{
     background-size: cover;
     color: #ffffff;
 }
-
 nav{
     display: flex;
     align-items: center;
@@ -35,7 +34,7 @@ nav ul{
     text-decoration: none;
 }
 
-ol, li, a{
+links, ol, li, a{
     display: flex;
     justify-content: space-evenly;
     text-decoration: none;
@@ -47,9 +46,9 @@ ol, li, a{
 
 }
 
-img{
+.image{
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
     display: flex;
-    width: 50%;
-    height: 300px;
-    
 }
